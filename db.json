@@ -1,0 +1,738 @@
+{
+  "products": [
+    {
+      "id": "cate1",
+      "title": "Dairy, Bread & Eggs",
+      "products": [
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5734b087-3ad9-485f-bbe2-52079cd9e35d.png",
+          "time": "12 min",
+          "productName": "Amul Taaza Toned Milk",
+          "quantity": "500 ml",
+          "amount": "28"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3af56c86-9a93-4d0c-a8d5-cf38493e4120.png",
+          "time": "8 min",
+          "productName": "Amul Masti Pouch Curd",
+          "quantity": "390 g",
+          "amount": "35"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5809737b-81af-44f4-8bf6-efbecba57082.png",
+          "time": "10 min",
+          "productName": "The Oven Classics Atta ",
+          "quantity": "380 g",
+          "amount": "35"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/52377f0e-2ee1-4d3f-a0d6-f34934b71f0f.png",
+          "time": "9 min",
+          "productName": "Amul Cheese Cubes",
+          "quantity": "200 g",
+          "amount": "130"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/613787ac-f983-4cfb-b534-e219c8d47b39.png",
+          "time": "12 min",
+          "productName": "Amul Salted Butter",
+          "quantity": "100 g",
+          "amount": "58"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e925664c-e419-49c7-9c03-00262c8753e1.png",
+          "time": "9 min",
+          "productName": "Oven Chef's Choice Pav",
+          "quantity": "300 g",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/2ac0c80d-8ee9-4bfe-b973-f310452ccec0.png",
+          "time": "10 min",
+          "productName": "The Cake Company Bread",
+          "quantity": "350 g",
+          "amount": "35"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/852a402a-54ac-41d5-9263-187f4b077171.png",
+          "time": "9 min",
+          "productName": "Amul Taaza Toned Milk",
+          "quantity": "200 ml",
+          "amount": "16"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/dfa345bf-052e-4657-ae4f-859bfe45fecf.png",
+          "time": "11 min",
+          "productName": "Amul Blend Diced Cheese",
+          "quantity": "200 g",
+          "amount": "120"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/b014d35f-c10c-4886-a279-7bbf244af441.png",
+          "time": "10 min",
+          "productName": "Amul Cheese Cubes",
+          "quantity": "1 kg",
+          "amount": "590"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/a94fff62-1c84-424d-9bda-cc7d6c2849ee.png",
+          "time": "7 min",
+          "productName": "Epigamia Mishti Doi",
+          "quantity": "80 g",
+          "amount": "35"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/da/cms-assets/cms/product/b4a29aa1-1585-451e-afee-130cd0c29849.png",
+          "time": "9 min",
+          "productName": "Amul Sweet Lassi",
+          "quantity": "200 g",
+          "amount": "20"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/65c0daf7-df94-493a-8d55-30b384352bf9.png",
+          "time": "9 min",
+          "productName": "The Oven Classics Pizza Base - 8",
+          "quantity": "225 g (2 pcs)",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/a94fff62-1c84-424d-9bda-cc7d6c2849ee.png",
+          "time": "9 min",
+          "productName": "Epigamia Mishti Doi",
+          "quantity": "80 g",
+          "amount": "35"
+        }
+      ]
+    },
+ 
+    {
+      "id": "cate2",
+      "title": "Snacks & Munchies",
+      "products": [
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/af0c0ce3-e062-4ea6-9a04-5097781adb9b.png",
+          "time": "9 min",
+          "productName": "Red Rock Deli kettle Chips",
+          "quantity": "58 g",
+          "amount": "51"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3eae3870-eb2a-43eb-ad30-967d17f7d691.png",
+          "time": "8 min",
+          "productName": "Protein Chef Baked Coated Peanuts ",
+          "quantity": "50 g",
+          "amount": "69"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1771553348655-665.png",
+          "time": "10 min",
+          "productName": "Kab's Jackpot Cheese Balls ",
+          "quantity": "60 g",
+          "amount": "65"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/555c3ab0-8c4b-4837-8e59-d6ffbfbbe1f9.png",
+          "time": "8 min",
+          "productName": "Himalayan Pink Salted Peanuts",
+          "quantity": "100 g",
+          "amount": "49"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/ede9cc90-b8f0-4786-ada6-d40f8ba2b37c.png",
+          "time": "10 min",
+          "productName": "Red Rock Deli Potato Chips",
+          "quantity": "53 g",
+          "amount": "51"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1771780767527-1900.png",
+          "time": "12 min",
+          "productName": "Dark Chocolate Spread with Breadsticks",
+          "quantity": "52 g",
+          "amount": "99"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/eba3f8cd-ef5f-4840-8617-525dade57896.png",
+          "time": "12 min",
+          "productName": "Pringles Original Potato Chips",
+          "quantity": "107 g",
+          "amount": "101"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/c9db4298-29bf-4536-b5f3-06dadbd50130.png",
+          "time": "12 min",
+          "productName": "Protein Chef Baked Bikaneri Bhujia",
+          "quantity": "80 g",
+          "amount": "99"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/rc-upload-1773048060308-1003.png",
+          "time": "12 min",
+          "productName": "Kettle Pink Salt Potato Chips",
+          "quantity": "60 g",
+          "amount": "44"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/rc-upload-1773048060308-1090.png",
+          "time": "12 min",
+          "productName": "Kettle Chilli & Lime Potato Chips",
+          "quantity": "60 g",
+          "amount": "45"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/e726d2de-4fdd-4fc3-b314-11017932a1d2.png",
+          "time": "11 min",
+          "productName": "Shrimp Flavoured Hot & Spicy Crackers Chips",
+          "quantity": "75 g",
+          "amount": "139"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/59bb864d-8151-457b-b6dd-9d4a2b8d1860.png",
+          "time": "12 min",
+          "productName": "Orion Korean Kimchi K Snack Onion Rings",
+          "quantity": "70 g",
+          "amount": "48"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/ebadff31-2807-480d-92bb-f34f29b1bbd9.png",
+          "time": "12 min",
+          "productName": "Kab's Jackpot Fire Balls Snack",
+          "quantity": "60 g",
+          "amount": "65"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/ba1c4280-90ad-4a65-a0a3-a60764810fa8.png",
+          "time": "12 min",
+          "productName": "Dobra Plain Salted Tapioca Chips",
+          "quantity": "60 g",
+          "amount": "65"
+        }
+      ]
+    },
+    
+    {
+      "id": "cate3",
+      "title": "Hookah",
+      "products": [
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/0b475c4e-7593-4a75-8fcd-ea5a1ddc0c03.png",
+          "time": "9 min",
+          "productName": "Premium Magic Coal By Stash Pro",
+          "quantity": "10 pcs",
+          "amount": "80"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/669a9b3f-7d5e-434e-bec2-f976bc976916.png",
+          "time": "8 min",
+          "productName": "Coconut Hookah Coal Cubes by Stash Pro",
+          "quantity": "250 g",
+          "amount": "180"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/ac378177-2f17-4dd8-b885-965ef83c24dd.png",
+          "time": "10 min",
+          "productName": "Coconut Shell Hookah Coal by Cocoyaya",
+          "quantity": "250 g",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/8f8da451-2645-4446-b082-14adacc4a0d1.png",
+          "time": "8 min",
+          "productName": "Mouth Filter Tips for Filters by Afzal",
+          "quantity": "5 pcs",
+          "amount": "50"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/fee6064a-0717-4381-8744-3eea3c3dfea6.png",
+          "time": "10 min",
+          "productName": "Silicon Hookah Chillum by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "400"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaefddd0-768f-4fe2-acaf-faef5d827730.png",
+          "time": "12 min",
+          "productName": "Premium Hookah Pipe by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "325"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaefddd0-768f-4fe2-acaf-faef5d827730.png",
+          "time": "12 min",
+          "productName": "Premium Hookah Pipe by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "325"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaefddd0-768f-4fe2-acaf-faef5d827730.png",
+          "time": "12 min",
+          "productName": "Premium Hookah Pipe by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "325"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaefddd0-768f-4fe2-acaf-faef5d827730.png",
+          "time": "12 min",
+          "productName": "Premium Hookah Pipe by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "325"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaefddd0-768f-4fe2-acaf-faef5d827730.png",
+          "time": "12 min",
+          "productName": "Premium Hookah Pipe by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "325"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaefddd0-768f-4fe2-acaf-faef5d827730.png",
+          "time": "12 min",
+          "productName": "Premium Hookah Pipe by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "325"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaefddd0-768f-4fe2-acaf-faef5d827730.png",
+          "time": "12 min",
+          "productName": "Premium Hookah Pipe by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "325"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaefddd0-768f-4fe2-acaf-faef5d827730.png",
+          "time": "12 min",
+          "productName": "Premium Hookah Pipe by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "325"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaefddd0-768f-4fe2-acaf-faef5d827730.png",
+          "time": "12 min",
+          "productName": "Premium Hookah Pipe by Smokey Lust",
+          "quantity": "1 pcs",
+          "amount": "325"
+        }
+      ]
+    },
+    
+    {
+      "id": "cate4",
+      "title": "Mouth fresheners",
+      "products": [
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/53ca4f43-b66c-4e1d-b105-9db9a4491478.png",
+          "time": "9 min",
+          "productName": "Chandan Saunf Elaichi Mouth Freshener",
+          "quantity": "100 g",
+          "amount": "45"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/de6cc2fb-de87-4112-a89e-cf7c263e2e3e.png",
+          "time": "8 min",
+          "productName": "GO DESi Tangy Imli Desi Popz Lollipop Candy",
+          "quantity": "5 pcs",
+          "amount": "50"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b417aadf-8504-4db2-9560-469a80461509.png",
+          "time": "10 min",
+          "productName": "Trident Spearmint Chewing Gum (Sugar Free)",
+          "quantity": "14 pcs",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b7159ab5-6b7c-4cf6-ad64-806789006144.png",
+          "time": "8 min",
+          "productName": "Impact Sugar Free Mint Mint Candies (Ice Mints)",
+          "quantity": "14 g",
+          "amount": "140"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d37286d5-2122-4fe2-97fa-5a809e8f7d6f.png",
+          "time": "10 min",
+          "productName": "Chandan Mint Saunf Mouth Freshener",
+          "quantity": "100 g",
+          "amount": "50"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c89dace-778e-41ac-a2bd-84acf26f90c3.png",
+          "time": "12 min",
+          "productName": "Trident Watermelon Twist Chewing Gum (Sugar Free)",
+          "quantity": "26.6 g",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c89dace-778e-41ac-a2bd-84acf26f90c3.png",
+          "time": "12 min",
+          "productName": "Trident Watermelon Twist Chewing Gum (Sugar Free)",
+          "quantity": "26.6 g",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c89dace-778e-41ac-a2bd-84acf26f90c3.png",
+          "time": "12 min",
+          "productName": "Trident Watermelon Twist Chewing Gum (Sugar Free)",
+          "quantity": "26.6 g",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c89dace-778e-41ac-a2bd-84acf26f90c3.png",
+          "time": "12 min",
+          "productName": "Trident Watermelon Twist Chewing Gum (Sugar Free)",
+          "quantity": "26.6 g",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c89dace-778e-41ac-a2bd-84acf26f90c3.png",
+          "time": "12 min",
+          "productName": "Trident Watermelon Twist Chewing Gum (Sugar Free)",
+          "quantity": "26.6 g",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c89dace-778e-41ac-a2bd-84acf26f90c3.png",
+          "time": "12 min",
+          "productName": "Trident Watermelon Twist Chewing Gum (Sugar Free)",
+          "quantity": "26.6 g",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c89dace-778e-41ac-a2bd-84acf26f90c3.png",
+          "time": "12 min",
+          "productName": "Trident Watermelon Twist Chewing Gum (Sugar Free)",
+          "quantity": "26.6 g",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c89dace-778e-41ac-a2bd-84acf26f90c3.png",
+          "time": "12 min",
+          "productName": "Trident Watermelon Twist Chewing Gum (Sugar Free)",
+          "quantity": "26.6 g",
+          "amount": "150"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6c89dace-778e-41ac-a2bd-84acf26f90c3.png",
+          "time": "12 min",
+          "productName": "Trident Watermelon Twist Chewing Gum (Sugar Free)",
+          "quantity": "26.6 g",
+          "amount": "150"
+        }
+      ]
+    },
+    
+    {
+      "id": "cate5",
+      "title": "Cold Drinks & Juices",
+      "products": [
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1770356946958-165.png",
+          "time": "9 min",
+          "productName": "Coca-Cola Diet Coke Soft Drink",
+          "quantity": "300 g",
+          "amount": "40"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c9dd1824-0cd4-47d0-adc3-9367a0dec122.png",
+          "time": "8 min",
+          "productName": "Bisleri Packaged Water (1 l) - Pack of 12",
+          "quantity": "12x1 Ltr",
+          "amount": "215"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/76a28c0d-0821-40a3-9e5f-8f073ddc5694.png",
+          "time": "10 min",
+          "productName": "Amul Masti Spiced Salted Buttermilk",
+          "quantity": "200 ml",
+          "amount": "15"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/52e0560a-de7b-4d27-b57a-c6bcf22945ec.png",
+          "time": "8 min",
+          "productName": "Bisleri Packaged Water 5 Ltrs",
+          "quantity": "5 Ltr",
+          "amount": "68"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/4345ef56-6124-4bcb-af9e-c9c2286a34fe.png",
+          "time": "10 min",
+          "productName": "Coca-Cola Soft Drink (750 ml) - Pack of 4",
+          "quantity": "4x750 ml",
+          "amount": "171"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6a7a308-b9ee-45fa-815a-93e85a3f16d7.png",
+          "time": "12 min",
+          "productName": "Bisleri Soda Water 750 ml",
+          "quantity": "750 ml",
+          "amount": "18"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6a7a308-b9ee-45fa-815a-93e85a3f16d7.png",
+          "time": "12 min",
+          "productName": "Bisleri Soda Water 750 ml",
+          "quantity": "750 ml",
+          "amount": "18"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6a7a308-b9ee-45fa-815a-93e85a3f16d7.png",
+          "time": "12 min",
+          "productName": "Bisleri Soda Water 750 ml",
+          "quantity": "750 ml",
+          "amount": "18"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6a7a308-b9ee-45fa-815a-93e85a3f16d7.png",
+          "time": "12 min",
+          "productName": "Bisleri Soda Water 750 ml",
+          "quantity": "750 ml",
+          "amount": "18"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6a7a308-b9ee-45fa-815a-93e85a3f16d7.png",
+          "time": "12 min",
+          "productName": "Bisleri Soda Water 750 ml",
+          "quantity": "750 ml",
+          "amount": "18"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6a7a308-b9ee-45fa-815a-93e85a3f16d7.png",
+          "time": "12 min",
+          "productName": "Bisleri Soda Water 750 ml",
+          "quantity": "750 ml",
+          "amount": "18"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6a7a308-b9ee-45fa-815a-93e85a3f16d7.png",
+          "time": "12 min",
+          "productName": "Bisleri Soda Water 750 ml",
+          "quantity": "750 ml",
+          "amount": "18"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6a7a308-b9ee-45fa-815a-93e85a3f16d7.png",
+          "time": "12 min",
+          "productName": "Bisleri Soda Water 750 ml",
+          "quantity": "750 ml",
+          "amount": "18"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6a7a308-b9ee-45fa-815a-93e85a3f16d7.png",
+          "time": "12 min",
+          "productName": "Bisleri Soda Water 750 ml",
+          "quantity": "750 ml",
+          "amount": "18"
+        }
+      ]
+    },
+
+    {
+      "id": "cate6",
+      "title": "Candies & Gums",
+      "products": [
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/12822984-7022-44ea-9975-61892ee10652.png",
+          "time": "9 min",
+          "productName": "Chupa Chups Sour Bites Mixed Fruit Sour Candy",
+          "quantity": "61.6 g",
+          "amount": "34"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/4f10d180-8987-4870-9c5a-04635e58005b.png",
+          "time": "8 min",
+          "productName": "Sugarfree Mint Chewing Gum 18 Pcs",
+          "quantity": "29 g",
+          "amount": "46"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/7420f5a7-bd7b-4c2b-929f-d6034bb254a0.png",
+          "time": "10 min",
+          "productName": "Parle Poppins Candy 100 g",
+          "quantity": "100 g",
+          "amount": "23"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/498246b3-ac58-4001-8b0f-4498d01bfd2d.png",
+          "time": "8 min",
+          "productName": "Kopiko Cappuccino Candy - Family Pack",
+          "quantity": "140 g",
+          "amount": "43"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/43ca9b52-6006-49d4-a44b-134101b63ab4.png",
+          "time": "10 min",
+          "productName": "Alpenliebe Pop Assorted Flavours Lollipop",
+          "quantity": "64 g",
+          "amount": "48"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6946d3a7-80f3-4a27-859d-65696c7af08b.png",
+          "time": "12 min",
+          "productName": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",
+          "quantity": "57.6 g",
+          "amount": "29"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6946d3a7-80f3-4a27-859d-65696c7af08b.png",
+          "time": "12 min",
+          "productName": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",
+          "quantity": "57.6 g",
+          "amount": "29"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6946d3a7-80f3-4a27-859d-65696c7af08b.png",
+          "time": "12 min",
+          "productName": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",
+          "quantity": "57.6 g",
+          "amount": "29"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6946d3a7-80f3-4a27-859d-65696c7af08b.png",
+          "time": "12 min",
+          "productName": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",
+          "quantity": "57.6 g",
+          "amount": "29"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6946d3a7-80f3-4a27-859d-65696c7af08b.png",
+          "time": "12 min",
+          "productName": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",
+          "quantity": "57.6 g",
+          "amount": "29"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6946d3a7-80f3-4a27-859d-65696c7af08b.png",
+          "time": "12 min",
+          "productName": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",
+          "quantity": "57.6 g",
+          "amount": "29"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6946d3a7-80f3-4a27-859d-65696c7af08b.png",
+          "time": "12 min",
+          "productName": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",
+          "quantity": "57.6 g",
+          "amount": "29"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6946d3a7-80f3-4a27-859d-65696c7af08b.png",
+          "time": "12 min",
+          "productName": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",
+          "quantity": "57.6 g",
+          "amount": "29"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6946d3a7-80f3-4a27-859d-65696c7af08b.png",
+          "time": "12 min",
+          "productName": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",
+          "quantity": "57.6 g",
+          "amount": "29"
+        }
+      ]
+    },
+
+    {
+      "id": "cate7",
+      "title": "Rolling paper & tobacco",
+      "products": [
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1772169697746-841.png",
+          "time": "9 min",
+          "productName": "Perfect Rolled Cones (Natural) - Bongchie",
+          "quantity": "500 ml",
+          "amount": "28"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/8d385b40-e78b-434a-962d-50ba667891bf.png",
+          "time": "8 min",
+          "productName": "Thins Pre-Rolled Rolling Paper - LIT",
+          "quantity": "390 g",
+          "amount": "35"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/0f8ebd88-7b67-4542-bda1-87f8182d767d.png",
+          "time": "10 min",
+          "productName": "Ultimate Rolling Paper with Filter ",
+          "quantity": "380 g",
+          "amount": "35"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/500d636d-e59e-4835-a0e5-3d8e7ad26d3b.png",
+          "time": "8 min",
+          "productName": "Brown Rolling Paper Cones - Stash Pro",
+          "quantity": "200 g",
+          "amount": "130"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/2a6eb6af-8143-4195-a788-c350255a8e1e.png",
+          "time": "10 min",
+          "productName": "Ultimate Rolling Paper with Filter ",
+          "quantity": "100 g",
+          "amount": "58"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5364507c-8f4b-4bcf-8663-eaedbc3f9fb6.png",
+          "time": "12 min",
+          "productName": "Brown Rolling Paper (King Size) - Stash Pro",
+          "quantity": "300 g",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5364507c-8f4b-4bcf-8663-eaedbc3f9fb6.png",
+          "time": "12 min",
+          "productName": "Brown Rolling Paper (King Size) - Stash Pro",
+          "quantity": "300 g",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5364507c-8f4b-4bcf-8663-eaedbc3f9fb6.png",
+          "time": "12 min",
+          "productName": "Brown Rolling Paper (King Size) - Stash Pro",
+          "quantity": "300 g",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5364507c-8f4b-4bcf-8663-eaedbc3f9fb6.png",
+          "time": "12 min",
+          "productName": "Brown Rolling Paper (King Size) - Stash Pro",
+          "quantity": "300 g",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5364507c-8f4b-4bcf-8663-eaedbc3f9fb6.png",
+          "time": "12 min",
+          "productName": "Brown Rolling Paper (King Size) - Stash Pro",
+          "quantity": "300 g",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5364507c-8f4b-4bcf-8663-eaedbc3f9fb6.png",
+          "time": "12 min",
+          "productName": "Brown Rolling Paper (King Size) - Stash Pro",
+          "quantity": "300 g",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5364507c-8f4b-4bcf-8663-eaedbc3f9fb6.png",
+          "time": "12 min",
+          "productName": "Brown Rolling Paper (King Size) - Stash Pro",
+          "quantity": "300 g",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5364507c-8f4b-4bcf-8663-eaedbc3f9fb6.png",
+          "time": "12 min",
+          "productName": "Brown Rolling Paper (King Size) - Stash Pro",
+          "quantity": "300 g",
+          "amount": "25"
+        },
+        {
+          "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5364507c-8f4b-4bcf-8663-eaedbc3f9fb6.png",
+          "time": "12 min",
+          "productName": "Brown Rolling Paper (King Size) - Stash Pro",
+          "quantity": "300 g",
+          "amount": "25"
+        }
+      ]
+    }
+  ]
+}
